@@ -1,5 +1,6 @@
 # CryptoClustering
 CryptoClustering Module 19
+##Created with the help of Tutor session and XPert Learning Assistant
 
 Prepare the Data
 Use the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
